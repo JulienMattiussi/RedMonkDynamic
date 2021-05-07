@@ -9,3 +9,7 @@ install: ## Install all dependencies
 
 start: ## Start application in development
 	npm run dev
+
+
+build: ## Build application for production
+	npm run build
